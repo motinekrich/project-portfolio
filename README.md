@@ -48,11 +48,10 @@ This dashboard supports business decisions such as optimizing inventory for popu
 ## Python Projects 
 ### EDA - Udemy Courses
 
-[project](udemy_courses- for presentation.html)
+[project](udemy_courses- for presentation-2.html)
 
-The EDA of udemy courses performance sets to evaluate the best way to enter a new market. more sedcription needed once the project is finalized
-
-![Bike Study](/assets/img/bike_study.jpeg)
+The EDA of udemy courses performance sets to evaluate the best way to enter a new market. 
+Here I used KPIs like revenue and engagement in order to pick the highest grossing subject niche, levels and pricing.
 
 ### Fraud Detection
 
