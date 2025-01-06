@@ -48,7 +48,7 @@ This dashboard supports business decisions such as optimizing inventory for popu
 ## Python Projects 
 ### EDA - Udemy Courses
 
-[project](https://www.mdpi.com/1424-8220/22/11/4240)
+[project](udemy_courses- for presentation.html)
 
 The EDA of udemy courses performance sets to evaluate the best way to enter a new market. more sedcription needed once the project is finalized
 
