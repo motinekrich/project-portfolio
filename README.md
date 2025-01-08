@@ -13,7 +13,7 @@
 - Tracked revenue, expenses, and client performance for two key B2B clients using advanced Excel functions (e.g., VLOOKUP, PivotTables, INDEX-MATCH).
 - Designed interactive dashboards in Tableau and Excel, and presentations using PowerPoint, providing clear and actionable insights to stakeholders, reducing reporting time by 20%.
 
-![Full Resume](/assets/img/eeg_band_discovery.jpeg) 
+![Full Resume](Resume - Moti Nekrich.pdf) 
 
 ## Excel Projects
 ### Amazon dashboard
