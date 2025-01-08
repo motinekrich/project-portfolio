@@ -19,7 +19,7 @@
 ### Amazon dashboard
 [project](amazon- sales project.xlsx)
 
-![Dashboard Image](/assets/img/eeg_band_discovery.jpeg) 
+![Dashboard Image](assets/amazon dashboard screenshot.png) 
 
 This dashboard provides a detailed overview of **web-scrapped** Amazon sales data, offering insights into product ratings, review counts, and sales performance across different categories. Key features include:
 
