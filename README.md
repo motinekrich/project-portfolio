@@ -17,7 +17,7 @@
 
 ## Excel Projects
 ### Amazon dashboard
-[full project](https://www.mdpi.com/1424-8220/22/8/3048)
+[project](amazon- sales project.xlsx)
 
 ![Dashboard Image](/assets/img/eeg_band_discovery.jpeg) 
 
