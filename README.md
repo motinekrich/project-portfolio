@@ -49,7 +49,7 @@ This dashboard supports business decisions such as optimizing inventory for popu
 ## Python Projects 
 ### EDA - Udemy Courses
 
-[project](udemy_courses- for presentation-2.html)
+[project](udemy_courses- for presentation-3.html)
 
 The EDA of udemy courses dataset from kaggle sets to evaluate the best way to enter a new market. 
 I used KPIs like revenue and engagement in order to pick the highest grossing subject niche, levels and pricing.
