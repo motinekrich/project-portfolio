@@ -49,15 +49,15 @@ This dashboard supports business decisions such as optimizing inventory for popu
 ## Python Projects 
 ### EDA - Udemy Courses
 
-[project](udemy_courses- for presentation-3.html)
-
 The EDA of udemy courses dataset from kaggle sets to evaluate the best way to enter a new market. 
 I used KPIs like revenue and engagement in order to pick the highest grossing subject niche, levels and pricing.
 
-### Fraud Detection
+[project](udemy_courses- for presentation-3.html)
 
-[project](credit_fraud-for pres-2.html)
+### Fraud Detection
 
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. The dataset used in this analysis contains over 284,000 transactions, of which only 0.17% are fraudulent. Due to the highly imbalanced nature of the dataset, the project emphasizes strategies to balance class representation and optimize performance for fraud detection.
 
 **The Objective:** Build and evaluate machine learning models to effectively detect fraudulent transactions while balancing precision and recall to minimize both false negatives (missed fraud) and false positives (false alarms).
+
+[project](credit_fraud-for pres-2.html)
