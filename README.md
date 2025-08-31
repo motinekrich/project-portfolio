@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Analyst Portfolio
 
 
 #### Technical Skills: Excel, Python, SQL, Tableau, R
@@ -11,9 +11,13 @@
 **Business & Research Analyst @ Wizely (_March 2024 - _july 2024)**
 - researched and summarized competitor and market leader’s trends using tools like Crunchbase,SimilarWeb, pitchbook and excel, aiding strategic planning and market positioning.
 - Tracked revenue, expenses, and client performance for two key B2B clients using advanced Excel functions (e.g., VLOOKUP, PivotTables, INDEX-MATCH).
-- Designed interactive dashboards in Tableau and Excel, and presentations using PowerPoint, providing clear and actionable insights to stakeholders, reducing reporting time by 20%.
+- Designed interactive dashboards in Tableau and Excel, and presentations using PowerPoint, providing clear and actionable insights to stakeholders, reducing reporting time by 30%.
 
 <a href="Resume - Moti Nekrich.pdf" download>Download Full Resume</a>
+
+## economics report
+
+<a href="סימולציית השפעת מיזוג.pdf" download>Download Full Resume</a>
 
 ## Excel Projects
 ### Amazon dashboard
