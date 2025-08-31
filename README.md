@@ -15,9 +15,11 @@
 
 <a href="Resume - Moti Nekrich.pdf" download>Download Full Resume</a>
 
-## economics report
+## economics report - בעברית
 
-<a href="סימולציית השפעת מיזוג.pdf" download>Download Full Resume</a>
+A quick potential merger analysis evaluating the merger's influence on the competition in the market sector. 
+
+<a href="סימולציית השפעת מיזוג.pdf" download>Download merger report</a>
 
 ## Excel Projects
 ### Amazon dashboard
