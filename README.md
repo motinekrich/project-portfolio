@@ -7,15 +7,20 @@
 - BA, Economics | The Open University of Israel 								       		
 - Data Analysis course	| The Hebrew University  			        		
 
-## Work Experience
+## Work Experience and motivation
+I'm an analyst with a background in economics and statistical analysis. I have a passion for rational data based descision making and a just and competative economic system implementation in our society.
+
 **Business & Research Analyst @ Wizely (_March 2024 - _july 2024)**
 - researched and summarized competitor and market leader’s trends using tools like Crunchbase,SimilarWeb, pitchbook and excel, aiding strategic planning and market positioning.
 - Tracked revenue, expenses, and client performance for two key B2B clients using advanced Excel functions (e.g., VLOOKUP, PivotTables, INDEX-MATCH).
 - Designed interactive dashboards in Tableau and Excel, and presentations using PowerPoint, providing clear and actionable insights to stakeholders, reducing reporting time by 30%.
 
+**Since Wisely**
+Worked independantly in small business workflow automation and data base setup - mainly with airtable.
+
 <a href="Resume - Moti Nekrich.pdf" download>Download Full Resume</a>
 
-## economics report - בעברית
+## Economic report - בעברית
 
 A quick potential merger analysis evaluating the merger's influence on the competition in the market sector. 
 
