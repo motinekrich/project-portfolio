@@ -24,7 +24,8 @@ Worked independantly in small business workflow automation and data base setup -
 
 A quick potential merger analysis evaluating the merger's influence on the competition in the market sector. 
 
-<a href="סימולציית השפעת מיזוג.pdf" download>Download merger report</a>
+<a href="סימולציית השפעת מיזוג.pdf" download>Merger Report</a>
+[Project](אקסל סימולציית מיזוג.xlsx)
 
 ## Excel Projects
 ### Amazon dashboard
